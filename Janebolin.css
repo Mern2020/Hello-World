@@ -1,0 +1,151 @@
+#title{
+    text-align:center;
+    font-family:Palatino, serif;
+    font-size:46px;
+    color:rgb(255, 147, 46);
+    padding:25px 15px 0px 15px;
+    margin:15px 0px 15px 0px;
+    letter-spacing:3px;
+  }
+  #main{
+    background-image:linear-gradient(to bottom,lightgrey, white)
+  }
+  #p1{
+    text-align:center;
+    padding: 2px;
+    margin:1px 5px 15px 5px;
+    font-size:20px;
+    font-family:Optima, sans-serif;
+    color:white;
+  
+  }
+  h3 {
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(255, 147, 46);
+  }
+  
+  #img-caption {text-align:center;
+    padding: 2px;
+    margin:1px 5px 15px 5px;
+    font-size:10px;
+    font-family:Optima, sans-serif;
+    color:white;
+
+  }
+  .box1 {
+    background-color:rgb(59, 59, 59);
+    box-shadow:0 5px 5px 0;
+  }
+
+  #image {
+    display:block;
+    margin-left: auto;
+    margin-right:  auto;
+    border: 1px solid #ddd;
+    padding: 3px;
+    width: 100%;
+height: auto;
+max-width: 625px
+  
+  }
+
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 1px;
+  }
+
+  #list{
+    float: left;
+    background-color:lightgrey;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:400px;
+    height:1000px;
+    border:2px solid darkgray;
+    padding:0px;
+  }
+
+  #h2{text-align: center;}
+
+  #fact{
+    display:block;;
+    margin-left:-20px;
+    margin-right:10px;
+    float:left;
+    margin-top:400px;
+    background-color: rgb(59, 59, 59);
+    color:white;
+    padding-left:5px;
+    box-shadow: 0 10px 10px 0 black;
+  }
+
+  
+   
+  
+  
+
+    .row:after {
+      content: "";
+      display:table;
+      clear:both;
+  }
+ 
+  
+  .h4 {
+    color:white;
+    text-align: center;
+  }
+.pinkbox {
+  background-color: rgb(85, 6, 19);
+  border-radius: 88px;
+  text-align: center;
+  padding-bottom:40px;
+  margin-bottom: 5px;
+  color:white;
+}
+  #tribute-info 
+  {
+    color:darkgreen
+  }
+
+  #tribute-link
+   {
+    text-align:right;
+    margin-top:500px;
+  
+  }
+  .white {
+    color:white;
+  }
+
+
+  #footer {
+    text-align: center;
+
+  }
+a {
+  text-align:center;
+}
+    a:link {
+      color: red;
+    }
+    
+    /* visited link */
+    a:visited {
+      color: green;
+    }
+    
+    /* mouse over link */
+    a:hover {
+      color: hotpink;
+    }
+    
+    /* selected link */
+    a:active {
+      color: blue;
+  }
+
+  
